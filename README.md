@@ -5,7 +5,7 @@
    <u>Hi, my name is Simon</u> <br>
    I live in Poland 🇵🇱 <br>
 
-   -Currently working on game <b>HeroOfTheEarth</b>
+ - Currently working on game <b>HeroOfTheEarth</b>
 
    
 </p>
@@ -29,4 +29,10 @@
  <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/discordjs.png" width="50px" height="50px">
 
  </p>
+ </div>
+ <br>
+ <div align="center">
+ <p>
+[![Twitter](https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/twitter.png)](https://twitter.com/Wolfyxon)
+</p>
  </div>
