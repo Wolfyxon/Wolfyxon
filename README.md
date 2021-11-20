@@ -13,23 +13,22 @@
 
 ### Languages I use:
 
-
+<p>
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/js.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/cs.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/py.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/lua.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png" width="50px" height="50px">
-
+</p>
 
 
 ### Cool tools and frameworks I use:
-
+<p>
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/rbx_studio.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/node.png" width="60px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/godot.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/git.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/discordjs.png" width="50px" height="50px">
-
-
+</p>
 
 
