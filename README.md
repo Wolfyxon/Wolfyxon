@@ -10,9 +10,9 @@
    
 </p>
 
-<center>
+<div align="center">
 <h3>Languages I use:</h3>
-<p style="background-color: gray">
+<p >
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/js.png" width="50px" height="50px">
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/cs.png" width="50px" height="50px">
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/py.png" width="50px" height="50px">
@@ -21,7 +21,7 @@
    
  </p>
  <h3>Cool tools and frameworks I use:</h3>
- <p style="background-color: gray">
+ <p >
  <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/rbx_studio.png" width="50px" height="50px">
  <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/node.png" width="60px" height="50px">
  <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/godot.png" width="50px" height="50px">
@@ -29,4 +29,4 @@
  <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/discordjs.png" width="50px" height="50px">
 
  </p>
- </center>
+ </div>
