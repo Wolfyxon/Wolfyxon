@@ -33,6 +33,8 @@
  <br>
  <div align="center">
  <p>
-[![Twitter](https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/twitter.png)](https://twitter.com/Wolfyxon)
+[![Twitter](https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/twitter.svg)] (https://twitter.com/Wolfyxon)
 </p>
  </div>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
