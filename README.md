@@ -41,9 +41,7 @@
 - create and host Discord.js bot
 - create and host API server
 - create basic website
-- create 
+- help with making a project
 - teach how to programm
 - teach how to make a game
-
-
 
