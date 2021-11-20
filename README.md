@@ -11,14 +11,10 @@
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/cs.png" width="50px" height="50px">
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/py.png" width="50px" height="50px">
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/lua.png" width="50px" height="50px">
-     
-    <table>
-       <tr>
-    <td><img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png" width="50px" height="50px"></td>
-         </tr>
-          <tr>
-             <td><p>this is not even a language lol</p></td>
-          </tr>
-    </table>
+   <div>
+    <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png" width="50px" height="50px">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: yellow"><b>This is not even a language lol</b></div>
+   </div>
+
    
  </p>
