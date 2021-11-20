@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/lua.png" width="50px" height="50px">
    <div>
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png" width="50px" height="50px">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: yellow"><b>This is not even a language lol</b></div>
+   
    </div>
 
    
