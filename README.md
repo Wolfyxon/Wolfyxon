@@ -11,10 +11,12 @@
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/cs.png" width="50px" height="50px">
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/py.png" width="50px" height="50px">
     <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/lua.png" width="50px" height="50px">
-   <div>
-    <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png" width="50px" height="50px">
+    <!-- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png" width="50px" height="50px"> -->
    
+   <div style="float: right">
+    ![https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png](http://placehold.it/85x85 "yes lol")
    </div>
+
 
    
  </p>
