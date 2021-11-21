@@ -1,0 +1,1 @@
+Here I upload images for my project that cannot be stored inside source code, example: for Discord bots
