@@ -1,5 +1,5 @@
 # Hi, I'm Wolfyxon
-## Casual programmer and game developper
+## Casual programmer and game developer
 <p>
    <u>Hi, my name is Simon</u> <br>
    I live in Poland 🇵🇱 <br>
