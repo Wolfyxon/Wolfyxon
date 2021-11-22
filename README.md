@@ -1,17 +1,11 @@
 # Hi, I'm Wolfyxon
-## Casual programmer and game developer
+## Casual programmer and game developper
 <p>
    <u>Hi, my name is Simon</u> <br>
    I live in Poland 🇵🇱 <br>
-   I like gaming and programming (of course). <br>
-   
 
-- currently working on game **HeroOfTheEarth**
+- Currently working on game **HeroOfTheEarth**
 - Best at **JavaScript** and **Node.js**
-- fan of Undertale and Deltarune
-- has weird music and humor sense
-- bad at drawing
-- does jobs for free :)
 
    
 </p>
@@ -36,12 +30,12 @@
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/git.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/discordjs.png" width="50px" height="50px">
 </p>
- 
-#### Jobs I can do:
-- create and host Discord.js bot
-- create and host API server
-- create basic website
-- help with making a project
-- teach how to programm
-- teach how to make a game
 
+
+### People I contribute with:
+<p>
+<img src="https://cdn.discordapp.com/avatars/731982480868901015/a0db3edbf4102bfd41f510ec1b487089.png?size=1024" width="30px" height="30px"> @l299l
+<br>
+<img src="https://cdn.discordapp.com/avatars/887274088249323560/2cdc45ae595a9f21f5c0467305c56452.png?size=1024" width="30px" height="30px"> @BananaSoftwaree
+<br>
+</p>
