@@ -34,10 +34,10 @@
 
 ### People I contribute with:
 <p>
-<img src="https://cdn.discordapp.com/avatars/731982480868901015/a0db3edbf4102bfd41f510ec1b487089.png?size=1024" width="30px" height="30px"> 
+<img src="https://avatars.githubusercontent.com/u/73909964?v=4" width="30px" height="30px"> 
 <a href="https://github.com/l299l" target="blank">@l299l</a>
 <br>
 <img src="https://cdn.discordapp.com/avatars/887274088249323560/2cdc45ae595a9f21f5c0467305c56452.png?size=1024" width="30px" height="30px"> 
-<a href="https://github.com/BananaSoftwaree" target="blank">@BananaSoftwaree</a>
+<a href="https://avatars.githubusercontent.com/u/93658686?v=4" target="blank">@BananaSoftwaree</a>
 <br>
 </p>
