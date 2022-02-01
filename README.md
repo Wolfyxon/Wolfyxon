@@ -6,8 +6,8 @@
 
 - Currently working on game **HeroOfTheEarth**
 - Best at **JavaScript** and **Node.js**
-
-   
+<br>
+ For more info visit my website: https://wolfyxon.github.io/
 </p>
 
 
