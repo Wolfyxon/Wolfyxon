@@ -23,7 +23,7 @@
 </p>
 
 
-### Cool tools and frameworks I use:
+### Cool tools, IDEs and frameworks I use:
 <p>
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/rbx_studio.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/node.png" width="60px" height="50px">
