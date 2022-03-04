@@ -5,7 +5,8 @@
    I live in Poland 🇵🇱 <br>
 
 - Currently working on game **HeroOfTheEarth**
-- Best at **JavaScript** and **Node.js**
+- Best at **JavaScript** and **GDScript**
+- Loves Node.js
 <br>
  For more info visit my website: https://wolfyxon.github.io/
 </p>
