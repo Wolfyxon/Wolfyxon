@@ -43,4 +43,4 @@
 <br>
 </p>
 # Stats
-!()[https://wakatime.com/share/@c10c8b79-171b-4765-bb35-5b6faf5744a1/ee21244b-101f-4fe8-b585-604eb92ac4ab.svg]
+![](https://wakatime.com/share/@c10c8b79-171b-4765-bb35-5b6faf5744a1/ee21244b-101f-4fe8-b585-604eb92ac4ab.svg)
