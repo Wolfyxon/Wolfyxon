@@ -21,8 +21,7 @@
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/lua.png" width="50px" height="50px">
    <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/Java.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/mc_command.png" width="50px" height="50px">
- <br><h1>Stats</h1><br>
- <img src="https://wakatime.com/share/@c10c8b79-171b-4765-bb35-5b6faf5744a1/ee21244b-101f-4fe8-b585-604eb92ac4ab.svg">
+
 </p>
 
 
