@@ -32,6 +32,10 @@
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/godot.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/git.png" width="50px" height="50px">
 <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/icons/discordjs.png" width="50px" height="50px">
+<img src="https://github.com/Wolfyxon/Wolfyxon/blob/main/img/icons/studio.png?raw=true" width="50px" height="50px">
+<img src="https://github.com/Wolfyxon/Wolfyxon/blob/main/img/icons/webstorm.png?raw=true" width="50px" height="50px">
+<img src="https://github.com/Wolfyxon/Wolfyxon/blob/main/img/icons/pycharm.png?raw=true" width="50px" height="50px">
+<img src="https://github.com/Wolfyxon/Wolfyxon/blob/main/img/icons/idea.png?raw=true" width="50px" height="50px">
 </p>
 
 
