@@ -5,20 +5,20 @@
 - 👤 INFJ
 
 ## Programming languages
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/c.svg" width=40 height=40 alt="C"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/cpp.svg" width=40 height=40 alt="C++"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/csharp.svg" width=40 height=40 alt="C#"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/html5.svg" width=40 height=40 alt="HTML"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/css3.svg" width=40 height=40 alt="CSS"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/js.png" width=40 height=40 alt="JavaScript"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/java.svg" width=40 height=40 alt="Java"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/lua.png" width=40 height=40 alt="Lua"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/python.svg" width=40 height=40 alt="Python"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/ide/godot.png" width=40 height=40 alt="GDScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/c.svg" width="40" height="40" alt="C"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/cpp.svg" width="40" height="40" alt="C++"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/csharp.svg" width="40" height="40" alt="C#"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/html5.svg" width="40" height="40" alt="HTML"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/css3.svg" width="40" height="40" alt="CSS"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/js.png" width="40" height="40" alt="JavaScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/java.svg" width="40" height="40" alt="Java"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/lua.png" width="40" height="40" alt="Lua"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/python.svg" width="40" height="40" alt="Python"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/ide/godot.png" width="40" height="40" alt="GDScript"> </code>
 
 ## Contact me
-- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width=20 height=20> [Join my Discord server](https://discord.gg/RztUGCK)
-- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/twitter.svg" width=20 height=20> [DM me on Twitter](https://twitter.com/Wolfyxon)
+- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Join my Discord server](https://discord.gg/RztUGCK)
+- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/twitter.svg" width="20" height="20"> [DM me on Twitter](https://twitter.com/Wolfyxon)
  
 # More about me
 Hi, I'm a young programmer from Poland.
