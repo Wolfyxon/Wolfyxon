@@ -16,7 +16,7 @@
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/python.svg" width="40" height="40" alt="Python"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/ide/godot.png" width="40" height="40" alt="GDScript"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/sqlite.png" width="40" height="40" alt="SQLite"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/mysql.png" width="40" height="40" alt="MySQL"> </code>
+<code> <img src="https://github.com/Wolfyxon/wolfyxon.github.io/blob/main/assets/img/software/lang/mysql.png" width="40" height="40" alt="MySQL"> </code>
 
 ## Contact me
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Join my Discord server](https://discord.gg/RztUGCK)
