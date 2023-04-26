@@ -1,7 +1,8 @@
-- 📂 Open-source fan and programmer
-- 💻 Front-end dev
+- 📂 Open-source fan
+- 💻 Full stack dev
 - 🐧 Linux user (Arch btw)
 - 🎥 Video editor
+- 🎮 Gamer
 - 👤 INFJ
 
 ## Programming languages
