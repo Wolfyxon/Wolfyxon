@@ -5,19 +5,20 @@
 - 🎮 Gamer
 - 👤 INFJ
 
-## Programming languages
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/c.svg" width="40" height="40" alt="C"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/cpp.svg" width="40" height="40" alt="C++"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/csharp.svg" width="40" height="40" alt="C#"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/html5.svg" width="40" height="40" alt="HTML"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/css3.svg" width="40" height="40" alt="CSS"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/js.png" width="40" height="40" alt="JavaScript"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/java.svg" width="40" height="40" alt="Java"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/lua.png" width="40" height="40" alt="Lua"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/python.svg" width="40" height="40" alt="Python"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/ide/godot.png" width="40" height="40" alt="GDScript"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/sqlite.png" width="40" height="40" alt="SQLite"> </code>
-<code> <img src="https://github.com/Wolfyxon/wolfyxon.github.io/blob/main/assets/img/software/lang/mysql.png" width="40" height="40" alt="MySQL"> </code>
+## Programming, markdown, style and database languages
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/c.svg" width="35" height="35" alt="C"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/cpp.svg" width="35" height="35" alt="C++"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/csharp.svg" width="35" height="35" alt="C#"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/html5.svg" width="35" height="35" alt="HTML"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/css3.svg" width="35" height="35" alt="CSS"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/js.png" width="35" height="35" alt="JavaScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/java.svg" width="35" height="35" alt="Java"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/lua.png" width="35" height="35" alt="Lua"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/python.svg" width="35" height="35" alt="Python"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/ide/godot.png" width="35" height="35" alt="GDScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/bash.png" width="35" height="35" alt="bash"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/sqlite.png" width="35" height="35" alt="SQLite"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/mysql.png" width="35" height="35" alt="MySQL"> </code>
 
 ## Contact me
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Join my Discord server](https://discord.gg/RztUGCK)
