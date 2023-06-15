@@ -28,6 +28,9 @@ Hi, I'm a young programmer from Poland.
 Programming is my passion. I'm mainly focused on making tools, websites and games.
 I speak Polish (my native language), fluent English and basic German.
 I'm a big fan of Linux and open source, I use a free lightweight operating system Arch Linux.  
+## Programmers I work with
+[@KaroleusPL](https://github.com/KaroleusPL)
+[@l299l](https://github.com/l299l)
 
 # Stats
 [![](https://github-readme-stats.vercel.app/api?username=Wolfyxon&count_private=true&show_icons=true&bg_color=212121&text_color=C70303&icon_color=FFFFFF&border_color=FF0000&ring_color=C70303&title_color=7A05BD)](https://github.com/anuraghazra/github-readme-stats)
