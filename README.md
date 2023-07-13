@@ -23,12 +23,15 @@
 ## Contact me
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Join my Discord server](https://discord.gg/RztUGCK)
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/twitter.svg" width="20" height="20"> [DM me on Twitter](https://twitter.com/Wolfyxon)
- 
+- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/gmail.svg" width="20" height="20"> [Send me an Email](mailto:wolfyxon@gmail.com)
+
 # More about me
 Hi, I'm a young programmer from Poland.
 Programming is my passion. I'm mainly focused on making tools, websites and games.
 I speak Polish (my native language), fluent English and basic German.
-I'm a big fan of Linux and open source, I use a free lightweight operating system Arch Linux.  
+I'm a big fan of Linux and open source, I use a free lightweight operating system Arch Linux.
+
+I'm also learning how to make music.
 ## Programmers I work with
 [@KaroleusPL](https://github.com/KaroleusPL)
 [@l299l](https://github.com/l299l)
