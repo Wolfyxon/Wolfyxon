@@ -38,4 +38,4 @@ I'm also learning how to make music.
 
 # Stats
 [![](https://github-readme-stats.vercel.app/api?username=Wolfyxon&count_private=true&show_icons=true&bg_color=212121&text_color=C70303&icon_color=FFFFFF&border_color=FF0000&ring_color=C70303&title_color=7A05BD)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfyxon&layout=compact&bg_color=212121&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&ring_color=C70303&title_color=7A05BD&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfyxon&layout=compact&bg_color=212121&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&ring_color=C70303&title_color=7A05BD&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
