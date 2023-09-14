@@ -5,7 +5,7 @@
 - 🎮 Gamer
 - 👤 INFJ
 
-## Programming, markdown, style and database languages
+## Programming, structure, style and database languages
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/c.svg" width="35" height="35" alt="C"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/cpp.svg" width="35" height="35" alt="C++"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/csharp.svg" width="35" height="35" alt="C#"> </code>
