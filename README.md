@@ -11,6 +11,7 @@
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/csharp.svg" width="35" height="35" alt="C#"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/html5.svg" width="35" height="35" alt="HTML"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/css3.svg" width="35" height="35" alt="CSS"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/ts.png" width="35" height="35" alt="JavaScript"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/js.png" width="35" height="35" alt="JavaScript"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/java.svg" width="35" height="35" alt="Java"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/lua.png" width="35" height="35" alt="Lua"> </code>
