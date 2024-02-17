@@ -6,6 +6,7 @@
 - 👤 INFJ
 
 ## Programming, structure, style and database languages
+<code> <img src="https://wolfyxon.github.io/assets/img/software/lang/rust.png" width="35" height="35" alt="Rust"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/c.svg" width="35" height="35" alt="C"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/cpp.svg" width="35" height="35" alt="C++"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/img/software/lang/csharp.svg" width="35" height="35" alt="C#"> </code>
