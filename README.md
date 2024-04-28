@@ -33,7 +33,7 @@ Programming is my passion. I'm mainly focused on making tools, websites and game
 I speak Polish (my native language), fluent English and basic German.
 I'm a big fan of Linux and open source, I use a free lightweight operating system Arch Linux.
 
-I'm also learning how to make music.
+I'm also a composer. I create music in LMMS, but I'm also in the progress of learning how to play the piano.
 ## Programmers I work with
 [@KaroleusPL](https://github.com/KaroleusPL)
 [@l299l](https://github.com/l299l)
