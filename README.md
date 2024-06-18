@@ -37,7 +37,6 @@ I'm a big fan of Linux and open source, I use a free lightweight operating syste
 I'm also a composer. I create music in LMMS, but I'm also in the progress of learning how to play the piano.
 ## Programmers I work with
 [@KaroleusPL](https://github.com/KaroleusPL)
-[@l299l](https://github.com/l299l)
 
 # Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Wolfyxon&count_private=true&show_icons=true&bg_color=212121&text_color=C70303&icon_color=FFFFFF&border_color=FF0000&ring_color=C70303&title_color=7A05BD" height="200px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfyxon&layout=compact&bg_color=212121&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&ring_color=C70303&title_color=7A05BD&langs_count=10" height="200px">
