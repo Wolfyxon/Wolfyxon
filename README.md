@@ -10,7 +10,7 @@
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/cpp.svg" width="35" height="35" alt="C++"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/csharp.svg" width="35" height="35" alt="C#"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/html5.svg" width="35" height="35" alt="HTML"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/media/img/icons/software/lang/css3.svg" width="35" height="35" alt="CSS"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/css3.svg" width="35" height="35" alt="CSS"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/ts.png" width="35" height="35" alt="JavaScript"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/js.png" width="35" height="35" alt="JavaScript"> </code>
   
