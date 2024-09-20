@@ -1,8 +1,8 @@
+- 💻 Full stack developer
 - 📂 Open-source fan
-- 💻 Full stack dev
+- 🎵 Composer
 - 🐧 Linux user (Arch btw)
 - 🎥 Video editor
-- 🎮 Gamer
 
 ## Programming, structure, style and database languages
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/rust.png" width="35" height="35" alt="Rust"> </code>
@@ -23,18 +23,17 @@
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/sqlite.png" width="35" height="35" alt="SQLite"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/mysql.png" width="35" height="35" alt="MySQL"> </code>
 
-## Contact me
+# More about me
+Hi, I'm a young passionate programmer from Poland.  
+The stuff I mostly make is websites, tools, libraries and games.
+
+I also compose music in LMMS and can play on a piano.
+
+## Contact
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Join my Discord server](https://discord.gg/RztUGCK)
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/twitter.svg" width="20" height="20"> [DM me on Twitter](https://twitter.com/Wolfyxon)
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/gmail.svg" width="20" height="20"> [Send me an Email](mailto:wolfyxon@gmail.com)
 
-# More about me
-Hi, I'm a young programmer from Poland.
-Programming is my passion. I'm mainly focused on making tools, websites and games.
-I speak Polish (my native language), fluent English and basic German.
-I'm a big fan of Linux and open source, I use a free lightweight operating system Arch Linux.
-
-I'm also a composer. I create music in LMMS, but I'm also in the progress of learning how to play the piano.
 ## Programmers I work with
 [@KaroleusPL](https://github.com/KaroleusPL)
 
