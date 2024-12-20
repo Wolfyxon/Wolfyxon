@@ -4,7 +4,7 @@
 - 🐧 Linux user (Arch btw)
 - 🎥 Video editor
 
-## Programming, structure, style and database languages
+## Languages
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/rust.png" width="35" height="35" alt="Rust"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/c.svg" width="35" height="35" alt="C"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/cpp.svg" width="35" height="35" alt="C++"> </code>
