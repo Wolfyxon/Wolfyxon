@@ -31,7 +31,6 @@ I also compose music in LMMS and can play on a piano.
 
 ## Contact
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Join my Discord server](https://discord.gg/RztUGCK)
-- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/twitter.svg" width="20" height="20"> [DM me on Twitter](https://twitter.com/Wolfyxon)
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/gmail.svg" width="20" height="20"> [Send me an Email](mailto:wolfyxon@gmail.com)
 
 ## Programmers I work with
