@@ -18,7 +18,7 @@
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/lua.png" width="35" height="35" alt="Lua"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/Luau.png" width="35" height="35" alt="Luau"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/python.svg" width="35" height="35" alt="Python"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/tools/godot.png" width="35" height="35" alt="GDScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/framework/godot.png" width="35" height="35" alt="GDScript"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/bash.png" width="35" height="35" alt="bash"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/sqlite.png" width="35" height="35" alt="SQLite"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/mysql.png" width="35" height="35" alt="MySQL"> </code>
