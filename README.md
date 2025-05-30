@@ -11,16 +11,16 @@
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/csharp.svg" width="35" height="35" alt="C#"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/html5.svg" width="35" height="35" alt="HTML"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/css3.svg" width="35" height="35" alt="CSS"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/ts.png" width="35" height="35" alt="JavaScript"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/js.png" width="35" height="35" alt="JavaScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/ts.svg" width="35" height="35" alt="JavaScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/js.svg" width="35" height="35" alt="JavaScript"> </code>
   
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/java.svg" width="35" height="35" alt="Java"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/lua.png" width="35" height="35" alt="Lua"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/Luau.png" width="35" height="35" alt="Luau"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/lua.svg" width="35" height="35" alt="Lua"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/luau.svg" width="35" height="35" alt="Luau"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/python.svg" width="35" height="35" alt="Python"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/framework/godot.png" width="35" height="35" alt="GDScript"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/bash.png" width="35" height="35" alt="bash"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/sqlite.png" width="35" height="35" alt="SQLite"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/framework/godot.svg" width="35" height="35" alt="GDScript"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/bash.svg" width="35" height="35" alt="bash"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/sqlite.svg" width="35" height="35" alt="SQLite"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/mysql.png" width="35" height="35" alt="MySQL"> </code>
 
 # More about me
