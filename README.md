@@ -27,8 +27,10 @@
 Hi, I'm a young passionate programmer from Poland.  
 The stuff I mostly make is websites, tools, libraries and games.
 
-I also compose music in LMMS and can play on a piano.
+I also compose music in LMMS and can play on a bit piano.  
+I like editing videos too.
 
+More about me on my website!
 https://wolfyxon.github.io/
 
 ## Contact
