@@ -13,7 +13,9 @@
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/css3.svg" width="35" height="35" alt="CSS"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/ts.svg" width="35" height="35" alt="JavaScript"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/js.svg" width="35" height="35" alt="JavaScript"> </code>
-  
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/go.svg" width="35" height="35" alt="Go"> </code>
+
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/php.svg" width="35" height="35" alt="PHP"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/java.svg" width="35" height="35" alt="Java"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/lua.svg" width="35" height="35" alt="Lua"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/luau.svg" width="35" height="35" alt="Luau"> </code>
