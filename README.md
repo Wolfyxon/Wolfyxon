@@ -5,7 +5,7 @@
 - 🎥 Video editor
 
 ## Languages
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/rust.png" width="35" height="35" alt="Rust"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/rust.webp" width="35" height="35" alt="Rust"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/c.svg" width="35" height="35" alt="C"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/cpp.svg" width="35" height="35" alt="C++"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/csharp.svg" width="35" height="35" alt="C#"> </code>
@@ -23,7 +23,7 @@
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/framework/godot.svg" width="35" height="35" alt="GDScript"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/bash.svg" width="35" height="35" alt="bash"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/sqlite.svg" width="35" height="35" alt="SQLite"> </code>
-<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/mysql.png" width="35" height="35" alt="MySQL"> </code>
+<code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/mysql.webp" width="35" height="35" alt="MySQL"> </code>
 
 # More about me
 Hi, I'm a young passionate programmer from Poland.  
