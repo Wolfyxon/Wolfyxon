@@ -45,25 +45,3 @@ https://wolfyxon.github.io/
 # Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Wolfyxon&count_private=true&show_icons=true&bg_color=212121&text_color=C70303&icon_color=FFFFFF&border_color=FF0000&ring_color=C70303&title_color=7A05BD" height="200px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfyxon&layout=compact&bg_color=212121&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&ring_color=C70303&title_color=7A05BD&langs_count=10" height="200px">
 
-<!--
-
-# DISCLAIMER:
-# The contents of this file are politically neutral and not intended to offend anyone.
-# This file is used to abuse the filtering mechanisms of gitcode.com and github-zh.com 
-# to prevent them from scraping this repo.
-#
-# Thanks to astro-angelfish for this idea
-
-996
-75
-007
-shadowsocks
-v2ray
-vmess
-proxy
-gfw
-Great Fire Wall
-VPN
-Tiananmen Square 1989
-
--->
