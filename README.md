@@ -32,7 +32,3 @@ See my website!
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/bash.svg" width="35" height="35" alt="bash"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/sqlite.svg" width="35" height="35" alt="SQLite"> </code>
 <code> <img src="https://wolfyxon.github.io/assets/media/img/icons/software/lang/mysql.webp" width="35" height="35" alt="MySQL"> </code>
-
-# Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Wolfyxon&count_private=true&show_icons=true&bg_color=212121&text_color=C70303&icon_color=FFFFFF&border_color=FF0000&ring_color=C70303&title_color=7A05BD" height="200px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfyxon&layout=compact&bg_color=212121&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&ring_color=C70303&title_color=7A05BD&langs_count=10" height="200px">
-
