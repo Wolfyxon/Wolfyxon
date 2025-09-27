@@ -9,10 +9,6 @@ but I'm currently expanding my skills into **electronics** and **embedded device
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Discord server](https://discord.gg/RztUGCK)
 - <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/gmail.svg" width="20" height="20"> [wolfyxon@gmail.com](mailto:wolfyxon@gmail.com)
 
----
-
 See my website!
 
 **https://wolfyxon.github.io/**
-
----
