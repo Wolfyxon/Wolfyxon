@@ -1,10 +1,12 @@
 # Wolfyxon
-Hi, I'm a young passionate programmer from Poland.  
-The stuff I mostly make is websites, random tools, utilities and games.
 
-## See my website!
-**https://wolfyxon.github.io/**
+I'm a young programmer from Poland.
 
-## Contact
-- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/discord.svg" width="20" height="20"> [Discord server](https://discord.gg/RztUGCK)
-- <img src="https://raw.githubusercontent.com/Wolfyxon/Wolfyxon/main/img/social/gmail.svg" width="20" height="20"> [wolfyxon@gmail.com](mailto:wolfyxon@gmail.com)
+I mostly do frontend, random tools, plugins, libraries and games.
+I also sometimes compose music, edit videos and try to learn drawing.
+
+[**My website**](https://wolfyxon.github.io) |
+[wolfyxon@gmail.com](mailto:wolfyxon@gmail.com) |
+[Discord](https://discord.gg/RztUGCK)
+
+![wolf](https://wolfyxon.github.io/assets/img/art/littleWolf.webp)
