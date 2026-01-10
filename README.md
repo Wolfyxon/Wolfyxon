@@ -9,4 +9,4 @@ I also sometimes compose music, edit videos and try to learn drawing.
 [wolfyxon@gmail.com](mailto:wolfyxon@gmail.com) |
 [Discord](https://discord.gg/RztUGCK)
 
-![wolf](https://wolfyxon.github.io/assets/img/art/littleWolf.webp)
+<img src="https://wolfyxon.github.io/assets/img/art/littleWolf.webp" width="200px" />
