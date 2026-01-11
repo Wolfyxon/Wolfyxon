@@ -4,6 +4,7 @@ I'm a young programmer from Poland.
 
 I mostly do frontend, random tools, plugins, libraries and games.
 I also sometimes compose music, edit videos and try to learn drawing.
+I'm new to electronics and embedded software.
 
 [**My website**](https://wolfyxon.github.io) |
 [wolfyxon@gmail.com](mailto:wolfyxon@gmail.com) |
