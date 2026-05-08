@@ -2,9 +2,9 @@
 
 I'm a young programmer from Poland.
 
-I mostly do frontend, random tools, plugins, libraries and games.
-I also sometimes compose music, edit videos and try to learn drawing.
-I'm new to electronics and embedded software.
+I mostly do frontend, backend, random tools, plugins, libraries and games.
+Also some embedded software and electronics.  
+I'm also good at video and audio editing and I'm new to music and art.
 
 [**My website**](https://wolfyxon.github.io) |
 [wolfyxon@gmail.com](mailto:wolfyxon@gmail.com) |
